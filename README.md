@@ -1,3 +1,20 @@
+# Evento JEPEX (2017)
+
+### Comunicação via Pôster
+
+## Transparência Educativa
+
+### Autores: CRISTIANE DOMINGOS DE AQUINO ^1, IURY ADONES XAVIER DOS SANTOS ^1, MARCELO MENDONÇA TEIXEIRA ^1
+
+#### 1. UFRPE - Universidade Federal Rural de Pernambuco
+
+Resumo:
+
+A cultura da transparência floresce no século XX, influenciada em sua gênese pelas ações públicas de diferentes países na Europa em prol de um Estado de Bem Estar Social (Wellfare State), afirma Teixeira (2012). Nesse sentido, em 2011, surge um movimento global de transparência, chamado de Governo Aberto, uma plataforma assente em quatro princípios: governo íntegro, participação social ativa, combate à corrupção e acesso dos cidadãos à tecnologia como suporte da transparência e da prestação de contas dos governos. É com base nesses princípios que foi desenvolvido um projeto de pesquisa que servisse como uma ferramenta adicional de fiscalização da sociedade brasileira para com os gastos públicos investidos em Educação, face às diferentes realidades existentes e impostos arrecadados pela União nos Estados. Aqui, chamamos a iniciativa de “Transparência Educativa”. Nesse sentido, a presente pesquisa qualitativa trata-se de um estudo empírico descritivo, norteada pela literatura de Coutinho (2015), em que desenvolvemos uma plataforma de transparência educativa para a sociedade brasileira, especialmente para instituições de ensino fundamental e ensino médio do Estado de Pernambuco. Ou seja, um ambiente Web e mobile desenvolvido no Android Studio voltado fiscalizar os gastos públicos em educação básica através do cruzamento de dados disponíveis do Portal da Transparência do Governo Federal e do IDEB, objetivo principal do estudo. Enquanto método, utilizamos o estudo de caso do portal da transparência enquanto ambiente virtual público que apresenta dados detalhados e diariamente atualizados sobre os atos praticados pelas unidades gestoras do Poder Executivo Federal no decorrer da execução das suas despesas. No software em voga estão disponíveis as informações quanto aos dados educacionais presentes em todas as Regiões do Brasil, sendo possível observar dados, cruzá-los e analisá- los quanto aos recursos disponibilizados pelo governo. Em conclusão, constatamos que se faz necessário o governo investir na definição de prioridades, em um cálculo correto dos gastos, na elaboração do orçamento geral para a Educação em cada Estado/Município, na prestação de contas transparente e na comprovação desse dispêndio. É deste modo que o aplicativo Transparência Educativa pode contribuir para gestão de tais recursos em prol de uma educação igualitária, democrática e de qualidade.
+
+Palavras-chave: Portal da Transparência, Aplicativo, Gastos Públicos, Android Studio, Cidadão Digital
+
+
 # Evento JEPEX (2016)
 
 ### Comunicação via Pôster
